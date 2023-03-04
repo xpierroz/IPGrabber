@@ -18,7 +18,7 @@ def main():
     print(Fore.LIGHTYELLOW_EX)
     print('    /$$$$$$ /$$$$$$$')
     print('    |_  $$_/| $$__  $$')
-    print(f'      | $$  | $$  \ $$     {Fore.YELLOW}Made by {Fore.LIGHTRED_EX}$x {Fore.LIGHTYELLOW_EX}')
+    print(f'      | $$  | $$  \ $$     {Fore.YELLOW}Made by {Fore.LIGHTRED_EX}. pierro {Fore.LIGHTYELLOW_EX}')
     print('      | $$  | $$$$$$$/')
     print('      | $$  | $$____/') 
     print('      | $$  | $$')      
