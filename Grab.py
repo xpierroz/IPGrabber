@@ -1,11 +1,6 @@
-import requests
-import dhooks
-import colorama
 from colorama import init, Fore
-import ctypes
 import time
 import os
-import sys
 import shutil
 
 
