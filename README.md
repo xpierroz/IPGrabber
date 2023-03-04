@@ -6,6 +6,8 @@
     <strong>by pierro</strong>
 </div>
 
+![SS](ss.png)
+
 # Don't forget to install the requirements!
 Just enter `pip install -r requirements.txt` after cloning this repository, then start Grab.py
 
