@@ -1,3 +1,4 @@
+from colorama import Fore
 import time
 import os
 import shutil
