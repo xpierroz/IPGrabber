@@ -19,5 +19,4 @@ Use main.py to build the payload, you might have to install the requirements usi
 
 ### Warning
 
-This tool is for educational purposes & research only, do not use for malicious purposes.
-I am not responsible for any damage caused by this tool.
+This tool is explicitly designed and provided exclusively for educational intentions. Its primary objective is to illuminate the vulnerabilities that files can be susceptible to, highlighting the need for proactive security measures. It is imperative that this tool is never leveraged for any illegal, unauthorized, or malicious undertakings. Under no circumstances will I assume liability for any detrimental consequences inflicted upon your computing infrastructure. I hereby absolve myself from any complicity in activities of an illicit nature. Emphatically, this tool's utility is confined to didactic objectives.
