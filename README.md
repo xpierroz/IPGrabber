@@ -3,8 +3,8 @@
     <h1>
         IP Grabber
     </h1>
-    <br>
     <strong>by pierro</strong>
+    <br><br>
 </div>
 
 ![SS](static/ss.png)
