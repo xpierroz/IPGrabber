@@ -1,17 +1,22 @@
 <div align="center">
     <br>
     <h1>
-        A simple IP Grabber .exe file maker 😵‍💫
+        IP Grabber
     </h1>
     <strong>by pierro</strong>
 </div>
 
-![SS](ss.png)
+![SS](static/ss.png)
 
-# Don't forget to install the requirements!
-Just enter `pip install -r requirements.txt` after cloning this repository, then start Grab.py
+### Introduction
 
-# To use it just start Grab.py
-It'll ask for you Discord WebHook (to send the IP) and compile it to an .exe
+This tool is a POC to demonstrate how easy it is to grab someone's IP address using a Discord WebHook.
 
-*Use it for educational purpose i'm not responsible for your actions*
+### How to use
+
+Use main.py to build the payload, you might have to install the requirements using `pip install -r requirements.txt`
+
+### Warning
+
+This tool is for educational purposes & research only, do not use for malicious purposes.
+I am not responsible for any damage caused by this tool.
